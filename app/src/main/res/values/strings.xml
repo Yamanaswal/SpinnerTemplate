@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerTemplate</string>
+    
+    <string-array name="numbers">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+    </string-array>
+
+</resources>
